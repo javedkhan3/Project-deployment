@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yammbuffet.com</id>
+    <title>Yamm Buffet</title>
+    <updated>2020-07-30T21:07:33Z</updated>
+    <generator>Yamm Buffet</generator>
+    <author>
+        <name>Yamm Buffet</name>
+    </author>
+    <link rel="alternate" href="https://yammbuffet.com"/>
+    <link rel="self" href="https://yammbuffet.com/prices/f"/>
+    <subtitle>Yamm Buffet</subtitle>
+</feed>
